@@ -1,0 +1,15 @@
+h5{
+    color: red;
+}
+.sachin{
+    border: 2px solid red;
+    /* border-radius: 20px; */
+    height: 400px;
+    z-index: auto;
+}
+.image-container{
+    height: 300px;
+    border-radius: 40px;
+
+    
+}

@@ -1,9 +1,10 @@
 import React from 'react'
+import Cards from '../components/Cards'
 
-function Home() {
+const Home = () => {
     return (
         <div>
-            This is home page or navigation Page
+            <Cards />
         </div>
     )
 }
